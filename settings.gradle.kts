@@ -13,6 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "menuinandroid"
+rootProject.name = "Animation"
 include(":app")
  
